@@ -2,11 +2,7 @@
 # Netflix Movies And TV Shows Reccomendation : ML PROJECT
 
 
-
-
-
-
-
+![netflix-](https://github.com/Aakarshnigam/Recommandation_projects/assets/138697476/49105753-2bb9-481b-b067-a5b35af758f0)
 
 
 
