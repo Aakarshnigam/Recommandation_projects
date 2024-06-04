@@ -1,6 +1,7 @@
 # Recommandation_projects
-# Netflix Movies And TV Shows Reccomendation : ML PROJECT
-322281866-fb99b13e-9563-4a11-af48-234fcc8ba040
+# Netflix Movie
+[Uploading netflix-movie-series-template-design-e71bfb50a083bc6cb974024bb0bca100.webp…]()
+s And TV Shows Reccomendation : ML PROJECT
 
 # Abstract
 Netflix, a corporation offering a vast library of TV series and films for online viewing, operates on a subscription model. Retaining customers and keeping them engaged is crucial for its profitability. Recommendation systems play a pivotal role in achieving this goal by providing personalized suggestions to users.
